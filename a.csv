@@ -1,0 +1,482 @@
+UniID,Sex,Age,Area,FaEdu,MoEdu,FaJob,MoJob,Reason,StudyTime,Failures,HigherEdu,Freetime,Friends,DAlc,WAlc,Absences,Result
+A,Nu,18,TT,1,1,Cong,Khac,Khoa hoc,2,0,Co,4,2,1,2,0,12
+A,Nu,21,NT,1,2,Khac,Khac,Truong,2,0,Khong,3,5,1,2,12,10
+B,Nam,21,NT,2,4,Khac,Khac,Nha,1,1,Co,4,3,4,3,0,0
+A,Nu,21,TT,1,2,Khac,Cong,Truong,2,3,Khong,4,5,1,3,10,8
+B,Nu,20,TT,1,1,Nha,Nha,Khac,2,0,Co,5,5,1,2,2,11
+B,Nu,18,NT,1,1,Nha,Nha,Khoa hoc,2,0,Co,2,1,1,2,0,14
+A,Nu,21,TT,4,4,Khac,Y,Nha,2,0,Co,2,4,1,1,0,15
+B,Nu,19,TT,4,4,Y,Y,Khoa hoc,2,0,Co,3,4,1,2,4,8
+A,Nam,18,TT,2,4,Y,Y,Khac,1,0,Co,5,5,3,4,4,9
+B,Nu,19,NT,1,1,Khac,Khac,Nha,4,0,Co,3,2,1,1,0,13
+A,Nam,20,TT,1,3,Khac,Cong,Khac,2,0,Co,4,4,3,4,0,14
+A,Nu,20,TT,2,2,Khac,Khac,Khoa hoc,2,0,Co,4,5,1,2,12,14
+A,Nu,19,TT,3,3,Khac,Khac,Truong,2,0,Co,4,5,1,1,0,15
+A,Nam,21,TT,2,2,Nha,Khac,Khoa hoc,1,1,Khong,4,3,2,2,26,8
+A,Nu,20,TT,1,1,GV,Cong,Truong,3,0,Co,3,3,1,1,0,14
+A,Nam,19,NT,3,3,Cong,Cong,Truong,1,0,Co,3,2,3,4,0,10
+B,Nu,21,TT,3,3,Khac,Khac,Nha,2,0,Co,1,3,1,2,1,16
+B,Nam,18,NT,1,1,Khac,Khac,Khoa hoc,2,0,Co,4,5,2,4,8,9
+A,Nam,20,TT,3,2,Cong,Cong,Truong,2,0,Co,3,3,1,3,0,11
+B,Nu,19,TT,2,2,Khac,Nha,Truong,4,0,Khong,2,1,1,1,4,11
+A,Nu,20,NT,2,2,Khac,Khac,Truong,1,0,Co,3,2,1,2,21,13
+B,Nam,21,TT,4,4,GV,GV,Nha,2,0,Co,2,4,1,4,4,19
+A,Nam,19,NT,3,3,Khac,GV,Nha,1,0,Co,3,4,3,5,16,12
+A,Nu,18,TT,1,1,Khac,Khac,Nha,2,0,Co,3,2,2,3,2,12
+A,Nu,18,TT,2,4,Khac,Khac,Truong,3,0,Co,3,3,1,3,4,15
+B,Nu,19,NT,2,2,Khac,Khac,Khoa hoc,2,0,Co,4,5,1,1,4,11
+A,Nu,19,TT,2,2,Khac,Khac,Nha,2,0,Co,4,4,1,1,0,11
+A,Nu,18,NT,4,3,Y,Cong,Khoa hoc,3,0,Co,3,2,1,1,2,12
+A,Nam,18,TT,2,2,Khac,Khac,Nha,3,0,Co,5,2,1,1,0,15
+A,Nu,20,TT,2,2,Nha,Nha,Khoa hoc,3,0,Co,3,3,1,1,0,13
+B,Nam,21,NT,2,3,Khac,Cong,Khoa hoc,1,1,Khong,3,1,2,2,0,0
+A,Nu,20,TT,1,2,Khac,Khac,Khoa hoc,1,0,Co,2,2,1,2,8,11
+B,Nam,21,TT,1,1,Nha,Nha,Khoa hoc,2,0,Co,3,3,1,4,6,10
+A,Nam,19,NT,3,4,Khac,Cong,Truong,1,0,Co,3,3,1,1,6,11
+A,Nam,18,TT,4,3,Khac,Khac,Nha,2,0,Co,5,1,1,1,0,13
+A,Nam,19,TT,1,2,Khac,Nha,Khoa hoc,1,1,Co,4,4,3,5,6,10
+A,Nam,20,TT,4,4,GV,Cong,Nha,1,0,Co,2,3,1,2,4,14
+A,Nam,18,NT,4,3,GV,Nha,Khoa hoc,2,0,Co,3,3,1,1,2,11
+A,Nu,19,TT,3,4,Y,GV,Nha,3,0,Co,4,4,2,4,0,13
+B,Nam,20,TT,4,4,Cong,Khac,Nha,3,0,Co,4,3,1,2,0,16
+A,Nam,20,NT,2,2,Cong,Khac,Khac,1,0,Khong,2,2,1,1,0,10
+A,Nu,18,TT,4,4,Nha,Cong,Khoa hoc,3,0,Co,3,3,1,1,4,15
+B,Nam,21,TT,2,1,Cong,Nha,Nha,1,0,Co,1,4,5,5,8,11
+A,Nam,21,TT,2,2,Khac,Khac,Nha,2,3,Co,3,3,5,5,9,10
+B,Nu,20,TT,2,1,Khac,Nha,Khoa hoc,1,0,Co,5,1,1,1,0,10
+A,Nu,20,TT,3,3,Khac,Y,Truong,2,0,Co,3,3,1,3,10,14
+A,Nu,20,NT,4,2,Khac,Nha,Khoa hoc,3,0,Co,4,3,1,1,0,15
+B,Nu,21,TT,4,4,GV,GV,Truong,2,0,Co,3,5,1,2,0,18
+A,Nam,20,TT,4,4,Khac,Cong,Nha,2,0,Co,3,5,4,5,15,12
+A,Nu,18,NT,1,3,Khac,Khac,Truong,4,0,Co,4,2,2,3,6,15
+A,Nu,20,TT,2,4,Khac,GV,Khoa hoc,2,0,Co,3,2,1,1,4,14
+A,Nu,20,TT,2,2,Khac,Khac,Khoa hoc,2,0,Co,2,2,1,1,4,13
+B,Nam,20,NT,3,1,Khac,Khac,Khoa hoc,1,0,Co,1,2,3,3,2,12
+A,Nu,19,TT,3,3,Khac,Khac,Nha,3,0,Co,3,3,1,3,2,11
+B,Nu,20,NT,2,2,Khac,Khac,Truong,2,0,Co,3,2,1,1,0,17
+A,Nam,19,TT,1,3,Khac,Khac,Truong,1,0,Co,3,2,2,2,0,14
+B,Nu,20,NT,1,3,Nha,Khac,Khoa hoc,3,0,Khong,2,3,2,2,5,8
+A,Nu,19,NT,4,4,GV,Y,Khac,2,0,Co,4,4,2,3,0,16
+A,Nam,20,TT,1,1,Khac,Y,Khoa hoc,1,1,Co,4,4,1,2,0,10
+B,Nu,19,NT,2,2,Khac,Nha,Khoa hoc,2,1,Co,4,4,2,3,2,12
+A,Nu,21,TT,1,1,Nha,Khac,Nha,3,0,Co,4,3,2,3,4,14
+A,Nu,21,TT,1,2,Khac,Khac,Nha,2,0,Co,2,5,1,2,8,15
+A,Nu,21,TT,3,3,Cong,Cong,Nha,2,0,Co,3,4,1,1,8,12
+A,Nam,20,TT,1,4,Khac,Cong,Nha,1,0,Co,5,4,2,4,22,10
+A,Nu,20,TT,2,2,Khac,Khac,Nha,1,1,Khong,1,2,1,1,8,10
+B,Nam,19,TT,1,2,Cong,Nha,Khoa hoc,1,0,Co,4,3,2,3,4,10
+A,Nam,18,TT,3,4,Cong,GV,Khoa hoc,4,0,Co,2,2,1,1,6,11
+A,Nu,20,TT,1,1,Khac,Nha,Truong,3,0,Co,3,4,1,1,12,12
+B,Nu,19,NT,1,1,Khac,Nha,Khoa hoc,2,3,Co,4,3,1,1,0,8
+A,Nu,19,TT,4,2,Y,Khac,Khoa hoc,2,0,Co,2,2,1,2,2,13
+A,Nu,18,TT,2,3,Khac,Cong,Truong,2,0,Co,4,4,1,1,4,11
+A,Nu,19,NT,3,3,Khac,Cong,Truong,3,0,Co,1,2,1,1,4,11
+B,Nam,20,NT,3,4,Khac,Cong,Nha,2,1,Co,5,5,1,3,4,11
+A,Nu,21,TT,3,4,Khac,Cong,Nha,2,0,Co,1,2,1,3,2,15
+A,Nu,20,TT,2,4,Cong,GV,Truong,4,0,Co,2,3,1,1,2,17
+A,Nu,21,TT,2,4,Khac,GV,Khoa hoc,2,0,Co,2,2,1,1,0,17
+B,Nam,18,NT,1,4,Cong,Y,Truong,2,0,Co,3,4,1,2,0,14
+B,Nu,19,NT,2,2,Khac,Khac,Nha,1,0,Co,3,2,1,1,0,16
+A,Nam,20,TT,3,3,Khac,Khac,Truong,2,0,Co,3,4,1,4,4,10
+B,Nu,19,NT,2,1,Khac,Nha,Khoa hoc,2,0,Khong,4,5,1,3,0,9
+A,Nu,21,TT,2,2,Khac,Cong,Truong,2,0,Co,1,4,1,3,10,17
+A,Nu,20,TT,2,2,Nha,Nha,Nha,2,0,Co,3,1,1,2,18,14
+A,Nu,20,TT,4,3,Cong,Nha,Nha,3,1,Co,4,3,3,4,14,8
+B,Nu,21,NT,2,2,Khac,Cong,Nha,3,0,Co,2,1,1,1,5,15
+A,Nam,19,TT,2,2,Khac,Cong,Truong,2,0,Co,4,2,1,1,6,11
+B,Nam,19,NT,2,1,Khac,Khac,Khoa hoc,2,0,Co,3,3,1,1,0,11
+A,Nu,18,TT,1,1,Khac,Nha,Khoa hoc,1,0,Co,3,3,1,2,6,13
+A,Nu,19,TT,4,3,Khac,Nha,Khoa hoc,2,0,Co,4,3,1,2,14,11
+A,Nu,21,TT,2,2,Cong,Nha,Khoa hoc,2,1,Co,3,1,1,1,16,10
+B,Nu,18,NT,1,1,Cong,Khac,Khoa hoc,1,1,Co,4,3,1,2,4,8
+A,Nu,20,TT,4,4,Cong,GV,Khoa hoc,2,0,Co,3,1,1,4,2,12
+A,Nu,19,TT,2,2,Khac,Nha,Khoa hoc,2,0,Co,3,4,1,2,6,11
+A,Nam,18,TT,2,2,Cong,Cong,Nha,4,0,Co,5,4,1,2,6,13
+A,Nu,18,TT,4,4,Cong,Cong,Khoa hoc,1,0,Co,3,4,2,3,0,12
+A,Nam,18,NT,1,2,Cong,Y,Truong,2,0,Co,4,2,1,1,4,10
+A,Nu,21,TT,2,3,Cong,Khac,Khac,3,0,Co,4,3,2,3,4,17
+A,Nu,20,TT,1,1,Cong,Nha,Khoa hoc,2,0,Co,3,3,1,1,0,12
+A,Nam,18,TT,4,4,Cong,Cong,Truong,2,0,Co,3,1,1,1,2,15
+A,Nam,19,NT,4,4,GV,Khac,Truong,3,0,Co,4,3,1,1,4,13
+B,Nu,20,TT,3,3,Cong,Cong,Khoa hoc,1,0,Co,4,3,1,1,0,13
+A,Nam,18,TT,3,3,Khac,Khac,Khoa hoc,2,0,Co,3,2,1,1,0,12
+A,Nam,20,NT,2,2,Khac,Cong,Khoa hoc,1,0,Co,4,5,5,5,2,10
+B,Nam,20,TT,3,3,Cong,Cong,Nha,1,0,Co,1,4,5,5,8,9
+B,Nu,18,NT,3,3,Khac,Nha,Khoa hoc,1,0,Co,4,4,2,3,4,11
+A,Nu,20,NT,2,2,Cong,Cong,Khoa hoc,3,0,Co,3,2,2,2,0,10
+A,Nam,19,TT,2,2,Khac,Khac,Nha,2,0,Co,4,4,1,1,0,13
+B,Nu,19,TT,1,1,Khac,Nha,Khoa hoc,2,0,Co,4,3,2,1,0,15
+B,Nu,21,TT,2,1,Nha,Nha,Khoa hoc,2,0,Khong,1,1,1,1,0,12
+B,Nam,19,NT,1,1,Khac,Nha,Khoa hoc,1,0,Co,5,5,2,4,0,9
+A,Nu,20,TT,1,3,Nha,Khac,Nha,1,1,Co,1,2,1,1,6,13
+B,Nu,19,TT,2,3,Nha,Cong,Khoa hoc,2,2,Co,5,5,1,1,8,7
+A,Nam,19,TT,4,4,Cong,Cong,Khac,1,0,Co,5,5,5,5,12,8
+A,Nu,18,NT,3,3,Cong,Cong,Truong,3,0,Co,2,1,2,3,2,13
+A,Nam,19,NT,1,2,Khac,Khac,Khoa hoc,1,0,Co,3,2,1,3,2,12
+A,Nam,19,TT,3,3,Cong,Khac,Nha,1,0,Co,4,2,1,1,6,15
+A,Nu,21,TT,3,4,Khac,Khac,Truong,4,0,Co,3,3,1,1,0,17
+A,Nu,18,NT,2,2,Khac,Nha,Truong,1,0,Co,3,1,1,1,8,12
+A,Nam,21,TT,2,1,Khac,Nha,Nha,1,0,Khong,4,4,2,4,10,11
+A,Nu,19,TT,3,1,Cong,Nha,Nha,2,0,Co,3,5,1,1,0,13
+B,Nam,21,NT,3,1,Khac,Nha,Khoa hoc,2,0,Co,3,4,2,4,0,9
+B,Nu,18,TT,2,2,Cong,Khac,Khoa hoc,3,0,Co,3,2,1,1,0,14
+B,Nu,18,NT,1,1,Cong,Nha,Khac,1,1,Co,1,3,1,1,6,10
+A,Nu,19,TT,1,2,Khac,Khac,Khoa hoc,2,0,Co,3,5,1,1,0,12
+A,Nu,20,TT,3,2,Khac,Nha,Nha,1,0,Co,3,3,1,4,4,13
+B,Nam,18,TT,1,2,Cong,Cong,Khoa hoc,1,0,Co,3,3,1,2,11,12
+B,Nam,19,NT,2,2,Cong,Cong,Khoa hoc,1,0,Co,4,3,2,4,6,8
+B,Nam,20,NT,1,1,Cong,Khac,Khoa hoc,1,0,Co,5,5,1,3,0,10
+A,Nam,21,TT,1,2,Khac,Cong,Khoa hoc,2,1,Khong,4,5,4,4,4,11
+A,Nam,19,TT,2,2,Khac,Khac,Truong,2,0,Co,4,4,2,4,2,10
+B,Nu,20,NT,2,1,Cong,Khac,Khoa hoc,2,0,Co,2,2,1,2,0,13
+A,Nam,19,TT,4,4,GV,GV,Nha,2,0,Co,4,5,5,5,4,12
+B,Nam,19,TT,2,2,Cong,Khac,Khoa hoc,2,0,Co,1,2,2,2,0,13
+A,Nam,20,NT,2,1,Khac,Khac,Truong,1,3,Co,2,2,3,3,14,10
+A,Nam,19,TT,2,2,Cong,Cong,Truong,1,0,Co,3,3,2,2,4,11
+A,Nam,18,TT,4,4,Y,GV,Truong,2,0,Co,2,2,1,1,8,16
+A,Nu,21,TT,4,4,GV,Nha,Khoa hoc,2,0,Co,3,4,1,1,4,11
+A,Nam,19,TT,4,4,Cong,Cong,Khoa hoc,1,0,Co,3,2,1,2,4,15
+A,Nam,21,NT,2,3,Khac,Cong,Truong,3,0,Co,4,2,1,1,0,15
+A,Nam,19,TT,3,4,Khac,GV,Nha,2,0,Co,4,3,2,3,4,11
+A,Nu,19,TT,3,4,Cong,GV,Khoa hoc,2,0,Co,4,3,1,2,2,16
+A,Nam,21,NT,3,2,Cong,Khac,Truong,1,0,Co,1,3,4,5,13,14
+A,Nam,20,NT,1,2,Khac,Nha,Khoa hoc,1,1,Khong,3,2,2,2,8,9
+A,Nam,20,TT,3,4,Khac,Khac,Khoa hoc,2,0,Co,2,3,1,1,4,13
+A,Nam,21,TT,2,3,Khac,Cong,Khoa hoc,1,0,Khong,4,5,2,4,8,7
+A,Nu,20,TT,1,3,Cong,Cong,Khoa hoc,3,0,Co,4,3,2,3,0,17
+A,Nu,18,NT,1,1,Khac,Nha,Nha,4,0,Co,1,2,1,1,4,13
+B,Nam,20,TT,2,2,Khac,Khac,Khoa hoc,1,1,Co,2,1,2,3,0,0
+A,Nu,19,TT,1,1,Nha,Nha,Khoa hoc,1,0,Co,4,4,3,3,4,11
+A,Nu,21,TT,2,3,Khac,Nha,Truong,3,0,Co,3,4,1,2,5,17
+B,Nu,20,NT,4,4,Cong,GV,Khac,2,0,Co,3,3,1,2,2,12
+A,Nam,20,NT,2,3,Khac,Khac,Khoa hoc,2,2,Co,4,4,1,4,4,8
+A,Nam,19,TT,4,4,Khac,Y,Truong,2,0,Co,2,4,2,4,0,14
+A,Nam,19,TT,3,3,Khac,Cong,Nha,3,0,Co,3,3,1,1,4,14
+B,Nam,18,NT,3,1,Khac,Nha,Truong,1,0,Co,2,4,3,5,2,11
+A,Nu,20,TT,1,1,Khac,Khac,Khoa hoc,2,0,Co,4,4,1,3,0,15
+A,Nu,20,NT,1,3,Khac,Cong,Truong,4,0,Co,1,2,1,1,0,19
+A,Nam,21,TT,3,4,Khac,GV,Khoa hoc,2,0,Co,3,2,1,1,2,11
+A,Nu,18,NT,2,2,Cong,Y,Truong,2,0,Co,1,3,1,3,0,11
+A,Nu,21,TT,1,1,Khac,Khac,Nha,3,0,Co,5,5,1,2,0,14
+A,Nu,18,NT,1,1,Khac,Khac,Truong,2,0,Co,3,4,2,4,2,11
+B,Nam,21,NT,2,1,Cong,Nha,Khac,1,0,Khong,3,3,2,3,3,10
+B,Nu,19,TT,4,4,Cong,GV,Khoa hoc,3,0,Co,3,5,1,4,1,12
+A,Nam,18,TT,3,4,Khac,GV,Truong,2,0,Co,4,1,1,1,0,14
+A,Nu,20,TT,1,1,Nha,Nha,Khoa hoc,3,0,Co,3,2,1,2,10,10
+A,Nam,20,TT,3,4,Khac,Y,Khoa hoc,2,0,Co,5,5,1,4,8,15
+B,Nu,20,NT,2,3,Khac,Nha,Khoa hoc,2,1,Co,5,4,1,2,0,10
+A,Nu,20,TT,4,2,Cong,Cong,Truong,2,0,Co,4,2,2,3,0,17
+B,Nu,20,NT,1,1,Nha,Nha,Khoa hoc,1,0,Khong,5,5,2,2,3,10
+A,Nam,18,TT,4,4,Cong,Y,Nha,2,0,Co,4,2,3,4,0,11
+B,Nam,18,NT,1,4,Cong,Y,Truong,2,0,Co,3,4,1,2,7,8
+B,Nam,20,TT,1,3,Cong,Cong,Khoa hoc,1,0,Co,4,5,3,4,6,10
+A,Nu,19,TT,2,1,Khac,Khac,Khoa hoc,1,0,Khong,3,5,1,2,4,11
+B,Nu,21,TT,1,1,Khac,Khac,Khoa hoc,2,0,Co,1,1,1,1,6,9
+B,Nam,19,NT,1,2,Cong,Khac,Truong,2,0,Co,2,1,1,1,0,0
+A,Nam,19,TT,3,2,Khac,Khac,Nha,1,0,Co,3,3,1,1,0,12
+B,Nu,19,TT,1,2,Cong,Khac,Khoa hoc,2,0,Co,3,3,1,1,0,14
+A,Nu,19,TT,3,2,Khac,Khac,Truong,2,0,Co,4,3,1,3,4,12
+B,Nu,19,NT,4,4,GV,GV,Khoa hoc,3,0,Co,2,2,1,1,6,17
+B,Nu,20,NT,1,2,Khac,Nha,Khoa hoc,1,0,Khong,5,3,1,1,2,11
+A,Nu,20,TT,4,2,Cong,Cong,Khoa hoc,2,0,Co,3,2,1,1,8,16
+A,Nam,20,NT,2,1,Khac,Nha,Nha,2,0,Co,1,3,1,5,6,10
+A,Nu,19,NT,2,2,Cong,Cong,Truong,4,0,Co,3,5,1,1,6,13
+B,Nu,19,NT,4,4,GV,Y,Truong,2,0,Co,3,3,2,3,0,16
+A,Nu,19,TT,1,4,Khac,Khac,Nha,2,0,Co,3,3,1,2,0,13
+A,Nam,20,TT,4,4,Khac,Y,Truong,3,0,Co,4,2,1,2,2,15
+B,Nu,21,NT,1,1,Khac,Nha,Khac,2,1,Co,3,2,1,1,9,7
+A,Nam,18,NT,3,2,Cong,Nha,Khoa hoc,2,0,Co,4,4,1,1,0,8
+B,Nam,20,TT,1,1,Khac,Khac,Nha,2,0,Co,4,3,2,4,4,9
+B,Nu,20,TT,1,1,Nha,Khac,Khoa hoc,1,0,Co,3,2,1,2,9,10
+A,Nam,18,TT,2,4,Khac,GV,Nha,2,0,Co,3,3,2,2,4,13
+A,Nam,20,NT,1,1,Khac,Khac,Nha,3,0,Co,3,3,1,1,2,15
+A,Nam,18,TT,4,4,Khac,GV,Nha,1,0,Co,4,3,2,4,8,11
+A,Nam,21,TT,4,4,Khac,Khac,Khoa hoc,3,0,Co,3,3,2,2,0,13
+A,Nam,20,TT,2,3,Cong,GV,Nha,1,0,Co,4,4,3,4,18,13
+B,Nu,19,TT,3,3,Khac,Khac,Truong,1,0,Khong,5,4,1,1,0,13
+B,Nu,21,TT,3,3,Cong,Cong,Khac,2,0,Co,3,2,1,3,6,13
+A,Nam,18,TT,4,4,GV,Cong,Khoa hoc,2,0,Co,3,3,1,1,0,15
+B,Nam,19,NT,2,3,Khac,Cong,Khoa hoc,1,0,Co,5,5,2,3,2,10
+A,Nam,18,TT,2,2,Y,Cong,Truong,4,0,Co,3,4,1,1,2,12
+B,Nu,19,NT,2,2,Khac,Khac,Khoa hoc,3,0,Co,3,3,2,2,2,11
+A,Nu,21,TT,3,4,Cong,Y,Khoa hoc,1,0,Co,2,4,1,4,8,15
+A,Nu,19,TT,2,2,Khac,Khac,Truong,4,0,Co,2,3,1,3,1,13
+B,Nu,20,NT,1,1,Khac,Khac,Khac,1,1,Khong,4,4,2,2,0,7
+A,Nu,21,TT,2,2,Cong,Nha,Nha,3,0,Co,3,3,1,1,0,13
+B,Nu,21,TT,2,1,Khac,Nha,Truong,2,0,Co,4,3,1,2,0,14
+B,Nu,19,NT,1,1,Khac,Nha,Khac,1,0,Co,2,2,4,3,0,14
+A,Nu,18,TT,2,1,Cong,Nha,Khoa hoc,2,0,Co,2,3,1,2,0,14
+B,Nam,19,TT,3,4,Khac,Khac,Khoa hoc,1,0,Co,2,5,1,5,8,13
+B,Nu,19,NT,2,2,Khac,Khac,Khoa hoc,2,0,Khong,4,5,1,2,1,11
+A,Nu,18,TT,3,4,Khac,Khac,Khoa hoc,2,0,Co,2,2,1,1,4,11
+A,Nu,20,TT,4,4,GV,Cong,Nha,1,1,Co,2,4,2,3,30,16
+B,Nu,21,TT,3,3,Cong,Cong,Khoa hoc,2,0,Co,3,4,1,1,0,10
+A,Nu,21,TT,3,4,Khac,Khac,Khoa hoc,3,0,Co,3,4,1,1,2,17
+A,Nu,20,TT,1,1,Khac,Nha,Khoa hoc,2,0,Co,3,3,1,1,2,11
+B,Nam,19,TT,4,4,Y,GV,Khac,1,0,Co,1,2,2,5,0,12
+B,Nu,20,TT,3,4,Khac,GV,Khac,2,0,Co,5,4,1,1,0,11
+A,Nam,18,TT,2,4,Khac,GV,Khoa hoc,1,0,Co,5,2,1,1,10,18
+B,Nu,20,NT,1,3,Khac,Nha,Truong,2,0,Co,5,4,2,3,10,9
+A,Nu,20,TT,1,2,Khac,Cong,Khoa hoc,2,0,Co,3,4,2,2,10,15
+A,Nu,20,TT,3,4,Khac,Y,Truong,2,0,Co,2,3,1,2,0,12
+A,Nu,19,TT,2,2,Cong,Cong,Khoa hoc,2,0,Co,3,3,2,3,0,13
+A,Nu,21,TT,4,1,GV,Khac,Nha,2,0,Co,4,4,1,2,2,11
+A,Nu,18,TT,3,4,Khac,Cong,Truong,1,0,Co,5,5,1,3,6,13
+A,Nam,21,TT,1,2,Khac,Nha,Khoa hoc,2,0,Co,3,2,4,5,2,11
+A,Nu,19,TT,3,4,Nha,Khac,Khoa hoc,3,0,Co,3,5,1,1,2,13
+A,Nu,20,TT,1,2,Khac,Khac,Nha,2,0,Co,2,3,2,2,2,14
+A,Nu,18,TT,4,4,GV,GV,Khoa hoc,1,0,Co,3,2,1,1,6,14
+A,Nu,21,TT,2,3,Cong,Khac,Khoa hoc,3,0,Co,3,3,5,1,10,11
+B,Nam,20,NT,2,2,Khac,Khac,Khoa hoc,1,0,Khong,5,5,3,5,0,10
+B,Nam,20,TT,3,3,Nha,Cong,Khoa hoc,4,1,Co,4,5,3,4,0,10
+A,Nu,21,TT,3,3,Cong,Cong,Nha,4,0,Co,3,3,1,1,4,15
+B,Nu,18,NT,1,2,Khac,Nha,Nha,1,0,Khong,3,4,1,1,0,9
+B,Nu,20,NT,1,2,Khac,Cong,Truong,2,0,Co,3,3,1,2,5,12
+B,Nam,21,NT,4,4,Cong,Nha,Khac,1,0,Co,5,5,1,1,5,14
+B,Nu,20,TT,2,2,Nha,Khac,Nha,3,0,Co,4,3,1,1,8,12
+A,Nam,19,TT,2,4,Khac,GV,Khoa hoc,2,0,Co,5,1,1,3,0,14
+B,Nu,19,NT,3,2,Cong,Nha,Khoa hoc,2,0,Co,5,2,1,2,0,17
+B,Nam,20,NT,2,2,Khac,Khac,Khoa hoc,1,1,Co,4,5,1,2,0,9
+A,Nam,19,TT,3,1,Cong,Nha,Khoa hoc,1,1,Khong,3,3,1,4,2,8
+A,Nam,18,TT,2,2,Cong,Cong,Khoa hoc,1,0,Co,4,1,1,1,0,10
+A,Nam,20,TT,4,4,Khac,GV,Truong,2,0,Co,4,4,1,3,0,10
+A,Nu,20,TT,3,4,Cong,Cong,Khoa hoc,2,0,Co,2,2,1,2,14,17
+A,Nam,21,TT,1,3,Cong,Cong,Khoa hoc,1,0,Co,3,4,4,5,2,12
+A,Nu,21,TT,1,1,Khac,Khac,Nha,2,0,Co,4,4,1,1,0,13
+A,Nam,20,TT,3,3,Cong,Khac,Truong,1,0,Co,3,5,3,5,0,17
+A,Nu,20,TT,3,2,Khac,Khac,Khoa hoc,2,0,Co,2,1,1,1,2,14
+A,Nam,18,TT,4,3,Khac,Cong,Khoa hoc,2,0,Co,4,4,1,1,0,16
+A,Nu,18,TT,4,4,GV,Cong,Khac,2,0,Co,4,4,1,1,2,12
+A,Nam,19,TT,2,3,Khac,Nha,Truong,3,0,Co,3,3,1,3,0,12
+A,Nam,21,TT,3,4,Khac,GV,Khoa hoc,3,0,Co,4,5,2,3,0,14
+B,Nam,19,NT,4,3,Y,Khac,Khac,2,0,Co,4,5,1,2,4,11
+B,Nam,21,TT,4,4,Y,Nha,Nha,4,0,Khong,5,5,5,5,2,6
+A,Nam,20,TT,4,4,GV,GV,Truong,2,0,Co,5,5,1,3,0,13
+A,Nu,20,NT,4,4,GV,GV,Khoa hoc,1,0,Co,4,4,1,1,2,17
+A,Nu,18,TT,4,4,Cong,Cong,Truong,2,0,Co,4,4,2,3,4,12
+A,Nu,19,TT,2,4,Cong,GV,Nha,2,0,Co,3,3,1,1,2,14
+B,Nu,20,NT,1,3,Khac,Khac,Khoa hoc,2,3,Co,4,4,1,1,2,10
+B,Nu,21,TT,3,2,Cong,Nha,Khoa hoc,1,0,Co,2,3,1,2,0,10
+A,Nu,20,TT,2,2,Cong,Khac,Truong,3,0,Co,2,3,1,1,8,15
+B,Nu,21,TT,1,1,Khac,Khac,Khoa hoc,2,2,Co,4,4,2,2,3,7
+A,Nu,18,TT,3,4,Cong,Cong,Truong,2,0,Co,3,2,1,1,0,15
+A,Nu,19,TT,4,4,Khac,Khac,Truong,1,0,Co,3,4,1,2,4,13
+A,Nam,20,NT,4,3,Khac,Nha,Khoa hoc,2,0,Co,4,5,2,4,2,10
+A,Nu,21,TT,4,2,Khac,Cong,Khoa hoc,2,1,Co,3,3,1,1,18,10
+B,Nu,21,NT,1,1,Nha,Nha,Khoa hoc,1,1,Khong,2,3,1,1,4,10
+A,Nu,18,TT,1,2,Khac,Nha,Nha,1,0,Khong,4,2,1,1,0,10
+B,Nu,21,NT,4,4,Cong,GV,Khoa hoc,2,0,Co,4,3,3,4,1,14
+A,Nu,19,TT,3,3,Khac,Khac,Nha,2,0,Co,3,2,1,2,0,13
+A,Nu,19,TT,2,2,Khac,Nha,Nha,2,1,Co,1,2,1,1,12,10
+A,Nu,20,TT,2,3,Khac,Khac,Khoa hoc,2,0,Co,3,4,1,3,2,17
+A,Nam,20,TT,3,3,Khac,Y,Nha,1,0,Co,4,3,1,3,0,15
+A,Nu,20,NT,4,3,Cong,Nha,Khoa hoc,3,0,Co,3,4,2,5,2,17
+A,Nu,20,TT,2,2,Cong,Cong,Khoa hoc,4,0,Co,4,1,1,1,2,12
+A,Nam,18,NT,4,4,Khac,Khac,Nha,4,0,Co,3,5,3,5,8,11
+A,Nam,18,TT,1,2,Khac,Cong,Khoa hoc,1,0,Co,5,5,2,5,0,11
+A,Nam,19,TT,1,2,Khac,Nha,Khoa hoc,1,0,Co,2,1,1,1,4,11
+B,Nu,19,TT,2,1,Cong,Khac,Khoa hoc,3,1,Co,3,2,1,2,3,8
+B,Nu,21,TT,4,2,Cong,Khac,Truong,2,1,Co,3,2,1,3,8,8
+A,Nu,19,TT,2,2,Khac,Khac,Nha,2,0,Co,3,3,1,2,16,10
+B,Nu,19,TT,2,2,Khac,Khac,Nha,1,0,Khong,3,4,1,2,6,8
+A,Nu,20,NT,1,1,Khac,Nha,Khoa hoc,3,0,Co,3,3,1,3,4,15
+B,Nu,21,TT,2,1,Khac,Khac,Khoa hoc,2,1,Co,4,4,2,3,9,8
+B,Nu,19,TT,1,2,Cong,Khac,Khac,2,0,Co,2,2,1,1,0,16
+B,Nu,20,NT,3,2,Khac,Khac,Khoa hoc,1,0,Co,5,5,1,3,2,12
+A,Nu,19,TT,2,2,Khac,Khac,Nha,1,1,Co,3,4,1,1,12,11
+A,Nu,18,TT,2,4,Khac,Y,Khac,2,0,Co,3,3,1,1,0,16
+A,Nu,21,TT,4,3,Khac,Khac,Khoa hoc,1,0,Co,4,4,1,1,4,14
+A,Nu,19,NT,1,1,Khac,Nha,Khoa hoc,2,0,Co,1,3,1,1,0,13
+A,Nam,19,TT,3,4,Khac,Y,Nha,1,0,Co,1,3,1,3,6,12
+B,Nu,19,NT,2,1,Khac,Khac,Truong,1,0,Co,4,5,1,4,0,15
+A,Nu,19,TT,1,3,Khac,Khac,Nha,2,0,Co,3,3,2,3,0,12
+B,Nu,21,NT,2,4,Khac,GV,Truong,2,0,Co,3,1,1,1,0,0
+A,Nu,20,TT,3,3,Khac,Nha,Khoa hoc,1,0,Co,2,5,2,5,2,11
+B,Nam,19,NT,2,1,Nha,Khac,Khoa hoc,1,0,Co,4,4,2,4,4,11
+A,Nu,18,TT,4,4,Cong,GV,Khoa hoc,3,0,Co,2,2,1,1,2,13
+A,Nam,21,TT,2,4,Khac,GV,Nha,2,0,Co,3,2,1,4,2,16
+A,Nu,20,TT,2,3,Khac,Khac,Khoa hoc,2,0,Co,4,2,1,1,4,15
+B,Nu,20,TT,1,1,Cong,Khac,Khoa hoc,3,0,Co,3,3,1,1,0,10
+A,Nu,19,TT,3,3,Khac,Khac,Truong,2,0,Co,3,2,1,1,2,14
+A,Nu,19,TT,3,4,Khac,GV,Khac,2,0,Co,3,2,1,1,4,15
+A,Nu,19,TT,2,2,Khac,Cong,Truong,2,0,Co,4,4,1,4,0,14
+A,Nam,19,TT,2,1,Cong,Cong,Khac,1,0,Co,3,3,1,2,0,11
+A,Nam,18,TT,4,4,GV,Khac,Truong,2,0,Co,4,3,1,1,4,16
+B,Nu,21,TT,2,2,Cong,Cong,Khoa hoc,3,0,Co,4,5,1,4,0,13
+A,Nu,19,TT,3,2,GV,Cong,Khac,2,0,Co,3,1,1,1,0,14
+A,Nam,20,TT,4,4,GV,GV,Khoa hoc,1,0,Co,2,1,1,2,6,9
+A,Nam,21,TT,2,4,Khac,Y,Truong,2,0,Co,4,5,1,3,4,14
+A,Nu,19,TT,3,2,Cong,Cong,Khoa hoc,2,0,Co,3,3,1,1,6,13
+A,Nam,19,TT,3,3,Khac,Cong,Nha,2,0,Co,2,3,1,2,0,13
+A,Nu,20,TT,4,4,Cong,GV,Khoa hoc,3,0,Co,4,4,1,3,0,13
+A,Nu,18,TT,2,2,Khac,Khac,Khoa hoc,4,0,Co,1,2,1,1,4,10
+A,Nu,21,TT,1,2,Khac,Khac,Truong,2,0,Co,3,1,1,1,10,14
+B,Nu,21,TT,1,1,Nha,Khac,Truong,2,0,Co,3,5,1,4,8,10
+B,Nu,18,TT,1,2,Khac,Nha,Nha,2,0,Co,4,2,3,3,0,9
+B,Nu,21,NT,1,1,Khac,Khac,Nha,3,0,Co,3,2,1,2,4,12
+A,Nu,19,TT,2,2,Khac,Khac,Truong,2,0,Co,3,4,1,1,0,13
+A,Nam,18,TT,3,4,Khac,GV,Khoa hoc,2,0,Co,4,3,1,2,0,13
+B,Nam,19,NT,1,1,Khac,Nha,Khac,1,0,Co,4,4,3,4,6,11
+B,Nu,21,NT,2,1,Khac,Nha,Khoa hoc,2,0,Co,3,4,1,4,0,15
+A,Nam,19,NT,2,2,Khac,Nha,Khoa hoc,1,0,Co,2,2,1,2,4,11
+A,Nu,21,TT,2,2,Khac,Khac,Khoa hoc,1,0,Co,3,5,2,4,2,10
+B,Nu,21,NT,2,2,Cong,Cong,Khoa hoc,2,1,Co,3,3,1,2,3,8
+A,Nu,19,TT,3,4,Khac,Y,Nha,2,0,Co,3,5,1,5,2,15
+A,Nu,20,TT,3,4,Khac,Y,Truong,3,0,Co,4,3,1,3,0,13
+A,Nam,21,TT,1,1,Khac,Khac,Khoa hoc,1,2,Khong,3,5,2,5,0,0
+A,Nu,20,TT,3,3,Khac,Khac,Truong,2,0,Co,3,3,2,3,32,14
+B,Nu,21,NT,2,2,Khac,Khac,Khac,1,1,Khong,5,5,1,1,0,0
+A,Nam,19,TT,2,3,Khac,Khac,Nha,1,0,Co,4,3,1,1,4,12
+A,Nu,21,TT,4,4,Khac,GV,Khoa hoc,2,0,Co,4,4,3,3,0,13
+B,Nu,19,TT,1,1,Khac,Nha,Khac,2,0,Co,3,2,1,3,6,8
+A,Nu,20,TT,4,3,Khac,Cong,Khoa hoc,3,0,Co,4,5,1,3,8,14
+B,Nu,19,NT,2,2,Cong,Khac,Khoa hoc,2,0,Co,4,3,1,1,0,12
+B,Nam,19,TT,2,1,Khac,Khac,Khac,3,0,Co,4,3,1,1,0,11
+A,Nam,21,TT,3,3,Y,Cong,Nha,2,0,Co,2,4,2,4,10,10
+A,Nu,20,TT,1,2,Khac,Cong,Truong,2,0,Co,3,5,2,4,4,16
+B,Nam,18,TT,1,3,Cong,Khac,Nha,1,0,Co,2,3,1,3,0,11
+A,Nu,20,TT,3,3,Khac,Cong,Nha,3,0,Co,2,2,2,3,10,11
+A,Nam,21,TT,4,4,GV,GV,Truong,2,0,Co,4,3,1,1,0,17
+B,Nu,20,TT,2,3,Khac,Cong,Truong,2,0,Co,2,3,1,2,0,15
+A,Nu,20,TT,2,3,Y,Y,Truong,4,0,Co,2,2,1,2,0,18
+A,Nam,21,TT,4,4,GV,GV,Nha,1,0,Co,4,2,2,2,0,17
+A,Nu,20,TT,4,4,Y,Y,Khoa hoc,1,0,Co,3,4,1,2,2,17
+A,Nam,18,TT,4,4,Cong,Y,Khoa hoc,1,0,Co,3,3,1,3,0,12
+A,Nu,20,NT,1,2,Cong,Nha,Truong,2,0,Co,2,5,1,2,0,11
+A,Nam,18,TT,4,3,Khac,Khac,Truong,1,0,Co,4,3,1,2,2,14
+A,Nu,21,NT,1,1,Khac,Nha,Khoa hoc,1,3,Co,2,5,1,5,6,11
+A,Nu,21,NT,1,3,Khac,Khac,Truong,2,0,Co,3,3,1,1,4,8
+B,Nu,21,NT,4,4,Nha,GV,Truong,1,0,Co,4,3,2,2,4,10
+A,Nam,18,TT,2,2,Cong,Cong,Nha,2,0,Co,3,3,1,3,2,13
+B,Nam,19,TT,4,4,GV,Khac,Khoa hoc,2,0,Co,3,1,1,1,0,13
+A,Nu,21,NT,2,2,Khac,Khac,Nha,2,0,Co,2,3,1,1,4,13
+A,Nu,19,TT,3,3,Cong,Khac,Nha,2,0,Co,3,5,1,4,6,13
+A,Nu,21,TT,1,1,Khac,Khac,Nha,2,0,Co,4,3,1,1,2,13
+B,Nu,20,NT,2,2,Khac,Nha,Khoa hoc,2,0,Co,3,5,1,2,0,11
+A,Nam,20,TT,2,3,Cong,Cong,Khoa hoc,1,3,Co,5,5,2,4,2,7
+B,Nu,18,NT,1,1,Khac,Nha,Nha,2,0,Co,3,3,1,1,1,11
+A,Nam,20,TT,1,2,Khac,Khac,Nha,1,3,Khong,5,1,1,1,0,10
+B,Nam,20,TT,1,1,Cong,Nha,Khac,2,0,Co,1,3,3,3,0,10
+A,Nam,20,NT,4,4,Khac,GV,Khoa hoc,2,0,Co,3,3,2,3,0,12
+A,Nu,19,TT,4,4,Khac,Y,Nha,1,0,Co,4,4,1,2,6,17
+A,Nu,21,TT,1,2,Khac,Khac,Khoa hoc,2,0,Co,3,4,1,3,2,13
+A,Nam,20,NT,2,2,Khac,Khac,Khoa hoc,2,0,Co,5,2,1,1,0,13
+B,Nam,18,TT,3,3,Nha,Nha,Truong,2,0,Co,3,3,1,1,0,11
+A,Nu,21,NT,2,2,Khac,Nha,Khoa hoc,4,0,Co,4,4,1,1,6,14
+A,Nam,18,TT,3,4,Khac,GV,Nha,2,0,Co,3,3,2,3,0,11
+B,Nu,19,TT,1,3,Khac,Khac,Khoa hoc,1,0,Co,1,3,1,3,0,8
+B,Nam,20,NT,2,1,Cong,Nha,Truong,1,0,Co,5,5,5,5,4,11
+A,Nam,20,TT,2,3,Khac,Khac,Truong,2,0,Co,4,4,1,2,10,18
+B,Nu,19,TT,2,3,Nha,Cong,Khoa hoc,1,0,Co,1,3,1,4,2,7
+A,Nu,19,TT,1,1,Khac,Nha,Nha,1,0,Co,3,2,1,4,2,13
+A,Nu,21,TT,3,3,Khac,Khac,Khoa hoc,1,1,Khong,1,1,1,1,14,7
+A,Nu,18,TT,2,3,Cong,Y,Nha,2,1,Co,3,2,1,1,2,11
+A,Nu,20,TT,2,2,Cong,Cong,Truong,2,0,Co,3,4,1,3,0,17
+A,Nam,19,TT,3,3,Cong,Khac,Khoa hoc,2,1,Co,5,5,4,4,0,1
+A,Nam,19,TT,2,1,Cong,Y,Khoa hoc,1,2,Co,4,5,3,5,0,10
+A,Nam,21,NT,3,4,Cong,GV,Khoa hoc,3,0,Co,3,2,1,2,4,17
+A,Nu,19,TT,4,4,Cong,Cong,Truong,3,0,Co,2,3,1,2,10,14
+A,Nu,18,TT,2,1,Cong,Nha,Khoa hoc,2,0,Co,3,4,2,4,6,11
+A,Nu,21,TT,3,2,Khac,Nha,Khoa hoc,3,0,Co,3,3,1,2,0,14
+B,Nu,18,NT,1,1,Khac,Nha,Khoa hoc,1,0,Khong,2,1,1,3,0,9
+A,Nam,21,TT,2,2,Cong,Khac,Truong,2,0,Khong,5,4,3,5,16,8
+A,Nu,21,TT,2,3,Khac,Cong,Nha,2,0,Co,1,2,1,2,4,13
+B,Nu,21,TT,1,3,Cong,GV,Khoa hoc,2,0,Co,3,4,1,1,4,16
+A,Nam,21,TT,4,4,Khac,Khac,Truong,1,0,Co,2,5,3,4,2,11
+B,Nam,18,TT,2,2,Khac,Y,Truong,1,0,Co,3,3,1,2,1,13
+A,Nu,20,NT,3,4,Khac,GV,Truong,3,0,Co,4,2,1,1,0,12
+A,Nam,19,TT,4,4,GV,GV,Khoa hoc,1,0,Khong,3,2,2,1,16,8
+B,Nam,20,NT,1,1,Cong,Khac,Khac,1,0,Khong,2,3,3,4,4,14
+A,Nam,19,TT,4,3,Khac,Cong,Nha,2,0,Co,3,3,1,1,2,13
+A,Nu,21,TT,3,3,Khac,Nha,Khoa hoc,2,0,Co,1,4,1,1,8,14
+A,Nu,18,TT,4,4,Y,GV,Truong,2,0,Co,3,3,1,2,2,14
+A,Nu,20,NT,4,4,Cong,Cong,Truong,3,0,Co,3,4,1,1,0,8
+A,Nu,20,TT,3,3,Khac,Cong,Nha,2,0,Co,3,3,1,1,0,13
+A,Nu,21,TT,1,2,Khac,Khac,Khoa hoc,3,0,Co,4,4,1,1,10,11
+B,Nu,19,TT,4,4,Cong,Cong,Khac,1,0,Co,1,3,1,2,1,11
+A,Nu,20,NT,2,3,Khac,Khac,Nha,2,0,Co,3,3,2,3,0,16
+B,Nu,18,NT,2,2,Khac,Khac,Khac,3,0,Co,4,3,2,2,2,12
+B,Nu,19,NT,2,2,Khac,Khac,Khoa hoc,2,0,Co,4,4,1,1,0,12
+A,Nam,18,TT,4,4,GV,GV,Khoa hoc,1,0,Co,5,3,1,1,4,14
+B,Nu,18,NT,3,3,Khac,Cong,Truong,2,0,Co,5,4,1,1,4,12
+B,Nu,18,NT,1,1,Cong,Nha,Truong,2,0,Co,4,3,1,2,0,10
+B,Nu,20,NT,2,2,Khac,Khac,Khac,2,0,Co,1,3,1,1,0,11
+A,Nu,19,TT,4,4,Cong,GV,Nha,3,0,Co,3,2,1,1,4,16
+A,Nu,19,TT,4,4,Y,Y,Truong,2,0,Co,4,2,1,1,0,17
+A,Nam,21,NT,2,3,Khac,Khac,Khoa hoc,3,0,Co,3,2,1,1,2,12
+B,Nu,20,TT,2,4,Khac,GV,Khoa hoc,4,0,Co,2,3,3,1,0,18
+B,Nu,21,TT,2,2,Nha,Cong,Truong,2,0,Co,3,5,1,1,2,14
+B,Nu,19,TT,2,2,Khac,Cong,Khoa hoc,1,0,Co,2,5,1,2,0,16
+A,Nam,21,TT,3,4,Cong,GV,Khoa hoc,1,0,Co,2,3,1,2,0,10
+A,Nam,20,TT,4,4,GV,Khac,Nha,1,0,Co,1,1,2,2,0,13
+A,Nu,19,TT,1,3,Khac,Cong,Khoa hoc,2,0,Co,3,3,2,2,2,12
+B,Nu,19,NT,1,1,Khac,Nha,Khoa hoc,2,0,Co,3,2,1,1,0,18
+A,Nam,18,TT,4,4,Khac,Cong,Khoa hoc,1,0,Co,3,3,1,1,2,12
+A,Nam,21,TT,4,4,Cong,GV,Nha,2,0,Co,3,3,2,2,0,13
+B,Nam,19,TT,1,1,Cong,Nha,Nha,2,0,Co,4,5,4,5,0,0
+A,Nu,21,TT,2,2,Nha,Nha,Khac,3,0,Co,3,3,1,2,0,18
+B,Nu,19,TT,2,2,Cong,Khac,Khoa hoc,1,1,Co,4,3,1,4,1,10
+A,Nu,20,TT,2,4,Khac,Khac,Truong,3,0,Co,3,3,1,1,0,16
+A,Nam,21,NT,3,3,Cong,Khac,Khoa hoc,2,0,Co,3,3,1,3,8,10
+B,Nu,19,NT,2,2,Cong,Khac,Khoa hoc,2,0,Co,3,4,1,1,1,14
+A,Nam,21,TT,2,2,Khac,Cong,Nha,2,0,Co,4,4,2,4,10,11
+B,Nu,20,NT,2,2,Khac,Nha,Khac,1,0,Co,1,3,1,2,5,9
+B,Nam,18,NT,2,1,Cong,Khac,Khoa hoc,2,0,Co,5,5,1,3,11,10
+A,Nu,21,TT,2,2,Khac,Nha,Khoa hoc,2,0,Co,2,5,1,1,2,10
+B,Nu,20,TT,2,2,Nha,Khac,Khoa hoc,1,0,Khong,5,3,1,1,4,10
+A,Nam,18,TT,3,2,Cong,Khac,Khoa hoc,1,0,Co,2,2,1,3,0,12
+B,Nu,20,NT,2,1,Khac,Khac,Khoa hoc,1,0,Co,5,5,1,3,4,9
+B,Nu,21,TT,1,1,Cong,Nha,Khoa hoc,2,0,Co,2,3,1,2,2,11
+A,Nam,21,TT,1,2,Cong,Cong,Khac,1,2,Khong,2,5,2,5,4,6
+A,Nu,21,NT,4,4,Khac,GV,Truong,2,0,Co,3,4,2,2,8,12
+A,Nu,20,NT,4,1,Khac,Khac,Khoa hoc,1,1,Co,5,4,1,1,14,8
+A,Nu,19,TT,2,2,Cong,Cong,Nha,1,0,Co,2,2,1,3,6,12
+A,Nu,19,TT,1,3,Khac,Cong,Khoa hoc,4,0,Co,3,3,1,2,0,10
+B,Nu,21,TT,2,2,Khac,Khac,Khoa hoc,2,0,Co,3,1,1,1,4,10
+A,Nam,18,TT,2,4,Khac,Khac,Khoa hoc,4,0,Co,3,3,1,1,0,10
+B,Nu,19,NT,1,1,Cong,Cong,Nha,1,0,Co,4,4,2,2,2,14
+A,Nam,19,TT,3,3,Khac,Nha,Truong,2,1,Co,3,3,1,3,4,10
+A,Nu,21,TT,1,2,Khac,Cong,Khoa hoc,2,0,Co,3,3,1,2,2,15
+A,Nam,18,TT,2,1,Nha,Khac,Nha,2,0,Co,3,2,1,1,0,14
+B,Nu,19,NT,2,1,Khac,Khac,Nha,3,0,Co,3,4,1,1,5,13
+A,Nu,20,TT,4,4,GV,Khac,Khoa hoc,1,0,Co,2,1,1,1,0,13
+A,Nu,18,TT,2,4,Cong,Y,Nha,3,0,Co,2,2,1,1,0,14
+B,Nu,21,NT,2,2,Khac,Nha,Khac,3,0,Co,3,3,1,3,0,15
+B,Nu,19,NT,1,2,Khac,Khac,Nha,1,0,Co,4,3,1,1,2,8
+A,Nu,18,TT,3,3,Cong,Cong,Nha,2,0,Co,3,2,2,3,24,9
+A,Nam,18,TT,3,2,Khac,Khac,Nha,3,0,Co,3,2,1,2,2,9
+A,Nu,20,NT,4,4,Khac,Cong,Khac,1,0,Co,2,1,1,2,6,11
+B,Nam,19,NT,1,4,Nha,Khac,Khac,1,0,Co,1,2,2,1,0,11
+B,Nam,21,TT,3,1,Cong,Nha,Khoa hoc,1,0,Khong,3,3,2,3,0,9
+A,Nam,18,NT,3,4,Nha,GV,Khoa hoc,2,0,Co,5,2,1,1,0,15
+B,Nam,21,TT,4,4,Cong,GV,Khac,3,0,Co,2,2,2,2,0,16
+A,Nam,19,TT,1,1,Khac,Khac,Nha,2,0,Co,4,2,1,1,2,9
+B,Nu,19,TT,2,1,Cong,Khac,Khoa hoc,3,1,Co,3,2,1,2,0,8
+A,Nu,20,TT,1,1,Khac,Nha,Khoa hoc,2,0,Co,3,2,1,1,10,10
+A,Nam,20,NT,1,2,Khac,Khac,Khoa hoc,1,0,Co,4,2,2,4,0,13
+B,Nu,20,TT,2,3,Khac,Nha,Nha,1,0,Co,3,3,2,2,5,11
+B,Nam,19,TT,1,2,Cong,Y,Khac,2,0,Co,2,2,1,4,2,8
+A,Nam,21,TT,1,2,Cong,Cong,Truong,3,0,Co,2,4,1,3,0,15
+A,Nam,21,TT,4,3,Khac,Khac,Truong,2,0,Co,3,5,1,4,9,15
+A,Nam,21,TT,1,2,Khac,Khac,Nha,2,0,Co,2,4,1,2,2,16
+A,Nu,19,TT,3,3,Cong,Khac,Nha,2,0,Co,3,3,2,4,4,11
+A,Nam,20,NT,2,1,Nha,Nha,Nha,2,0,Co,5,2,2,2,2,18
+A,Nam,20,TT,3,3,Cong,Cong,Khac,2,0,Co,3,4,2,3,6,14
+A,Nu,19,TT,2,2,Nha,Khac,Khoa hoc,2,1,Co,3,3,2,2,14,11
+B,Nam,18,TT,3,3,Cong,Cong,Khoa hoc,1,0,Co,3,3,2,4,11,11
+A,Nam,21,NT,4,3,Khac,Khac,Truong,2,0,Co,2,5,3,4,6,16
+B,Nu,20,TT,4,4,Y,Y,Khoa hoc,2,0,Co,2,5,1,1,0,16
+B,Nu,19,NT,4,3,Khac,Nha,Khac,2,0,Co,2,1,1,1,2,8
+A,Nu,19,NT,1,1,Cong,Khac,Truong,1,0,Co,3,3,1,2,8,11
+A,Nam,21,TT,4,4,Cong,GV,Nha,1,0,Co,2,4,1,4,6,12
+A,Nam,18,TT,3,4,Cong,GV,Nha,3,0,Co,4,3,1,1,0,14
+B,Nu,21,NT,2,3,Khac,Khac,Khoa hoc,3,2,Khong,3,2,1,1,6,10
+A,Nu,18,NT,1,1,Khac,Khac,Khoa hoc,1,1,Co,5,5,1,1,2,9
+A,Nu,18,TT,2,3,Khac,Cong,Nha,2,0,Co,3,5,1,1,16,10
+A,Nam,18,TT,4,4,Y,Y,Khac,1,0,Co,4,2,1,1,0,12
+B,Nu,21,TT,1,1,Cong,Nha,Khoa hoc,2,1,Khong,4,2,1,2,2,10
+A,Nu,19,TT,4,4,Y,Y,Khac,3,0,Co,4,5,1,1,2,14
+A,Nu,21,TT,2,2,Khac,Khac,Nha,2,0,Co,3,3,1,1,0,12
+A,Nam,19,TT,4,4,Khac,Y,Khoa hoc,1,0,Co,4,4,1,4,4,13
+A,Nu,21,TT,4,4,Y,Y,Truong,2,1,Co,4,4,1,1,2,13
+A,Nam,19,TT,4,4,Y,GV,Truong,2,0,Co,1,3,3,5,6,10

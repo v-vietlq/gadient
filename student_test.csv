@@ -1,0 +1,51 @@
+UniID,Sex,Age,Area,FaEdu,MoEdu,FaJob,MoJob,Reason,StudyTime,Failures,HigherEdu,Freetime,Friends,DAlc,WAlc,Absences,Result
+B,Nam,21,NT,1,1,Khac,Khac,Nha,1,1,Khong,4,3,3,4,0,10
+A,Nam,19,TT,4,4,GV,Cong,Khac,3,0,Co,4,3,1,1,0,16
+A,Nam,18,TT,2,1,Khac,Khac,Khoa hoc,1,0,Co,4,4,2,4,2,10
+A,Nam,21,TT,4,3,Khac,Cong,Nha,2,0,Co,3,3,1,3,6,17
+A,Nam,20,TT,2,2,Khac,Khac,Nha,1,0,Khong,4,4,2,3,8,9
+B,Nu,18,NT,4,4,Khac,GV,Khoa hoc,1,0,Co,5,1,3,5,0,14
+A,Nam,19,TT,4,4,Cong,Cong,Khoa hoc,3,0,Co,3,3,1,3,0,13
+A,Nu,21,NT,1,1,Khac,Nha,Truong,4,0,Co,2,2,1,1,2,18
+B,Nu,19,TT,1,1,Khac,Khac,Khoa hoc,4,0,Co,2,1,1,1,0,14
+A,Nam,18,TT,2,4,Cong,Y,Khac,1,0,Co,2,4,2,4,0,11
+B,Nu,19,TT,3,1,Khac,Nha,Khac,1,0,Khong,3,3,1,3,11,11
+A,Nu,21,TT,3,2,Cong,Khac,Truong,4,0,Co,5,5,1,3,10,16
+A,Nu,19,TT,2,2,Khac,Khac,Nha,2,0,Co,1,5,1,1,0,13
+B,Nam,21,TT,3,3,Nha,Nha,Khoa hoc,2,2,Khong,4,5,1,3,9,8
+B,Nam,20,TT,2,3,Khac,Khac,Khac,2,0,Co,1,2,2,2,0,13
+A,Nam,18,TT,4,4,Cong,Khac,Truong,4,0,Co,3,3,5,5,0,12
+A,Nam,19,TT,2,2,Khac,Khac,Khoa hoc,2,0,Khong,3,5,2,4,0,11
+B,Nam,21,NT,1,2,Khac,Khac,Khac,1,0,Co,4,3,1,3,0,0
+A,Nam,19,NT,2,4,Cong,GV,Khac,1,0,Co,3,3,3,4,8,11
+A,Nam,20,TT,1,2,Khac,Khac,Nha,1,0,Co,4,5,1,2,22,6
+A,Nam,19,TT,4,3,Khac,Khac,Khoa hoc,1,1,Co,4,5,2,4,4,10
+A,Nu,19,TT,1,2,Khac,Khac,Nha,1,0,Co,5,2,1,1,4,10
+A,Nu,20,TT,2,3,Khac,Khac,Nha,2,0,Co,3,2,2,3,0,15
+A,Nu,21,NT,2,3,Cong,Khac,Nha,2,0,Khong,1,1,1,1,15,10
+A,Nu,19,TT,4,4,GV,GV,Truong,2,0,Co,5,2,1,2,0,11
+B,Nu,20,TT,1,4,Nha,Y,Khoa hoc,1,0,Co,2,2,1,1,0,9
+B,Nu,21,TT,1,1,Cong,Nha,Khoa hoc,3,0,Co,3,2,1,1,0,18
+A,Nu,18,TT,3,2,Khac,Khac,Khac,1,0,Co,5,1,1,1,4,11
+A,Nam,19,TT,1,2,Khac,Khac,Khoa hoc,2,0,Co,2,3,1,2,0,16
+A,Nu,18,TT,3,3,Khac,Khac,Khac,1,0,Co,3,4,4,4,0,13
+A,Nam,19,TT,1,3,Khac,Khac,Truong,4,0,Co,3,2,1,1,2,11
+A,Nam,20,TT,2,3,Cong,Cong,Khoa hoc,1,3,Khong,5,2,1,1,10,8
+B,Nu,19,NT,2,2,Khac,Y,Khoa hoc,2,0,Co,3,2,1,1,2,10
+A,Nam,19,TT,3,4,Khac,GV,Khoa hoc,1,0,Co,4,5,1,1,7,15
+B,Nam,19,TT,2,2,Cong,Cong,Khac,3,0,Co,1,3,2,2,0,10
+B,Nam,20,TT,3,2,Cong,Khac,Nha,2,0,Co,4,3,1,1,4,16
+A,Nam,18,TT,2,3,Khac,Cong,Nha,2,0,Co,2,2,1,1,0,17
+B,Nu,19,NT,3,2,Cong,Nha,Khac,2,0,Co,3,3,1,1,0,10
+A,Nu,20,TT,2,2,Khac,Khac,Khoa hoc,1,0,Co,4,4,1,3,2,12
+B,Nu,20,TT,2,4,Khac,Khac,Khoa hoc,2,0,Co,3,3,1,2,0,18
+A,Nam,21,TT,2,2,Cong,Cong,Truong,2,0,Khong,4,4,1,3,11,12
+B,Nu,19,NT,1,1,Khac,Nha,Khac,3,0,Co,4,3,1,1,2,10
+A,Nam,20,TT,1,1,Khac,Khac,Truong,2,0,Co,3,3,1,2,0,12
+A,Nu,18,TT,1,2,Khac,Cong,Truong,3,0,Co,2,2,1,1,0,13
+A,Nam,20,NT,3,1,Khac,Khac,Khoa hoc,2,1,Co,2,4,1,4,14,11
+B,Nu,20,NT,1,4,Khac,Khac,Khac,1,0,Co,2,3,1,2,1,14
+B,Nu,18,NT,2,1,Cong,Khac,Khoa hoc,1,0,Co,1,2,1,1,3,13
+A,Nu,20,TT,1,1,Cong,Khac,Khoa hoc,2,0,Co,3,4,1,2,4,11
+B,Nu,20,NT,1,1,Cong,Khac,Truong,1,1,Co,2,1,1,2,0,9
+A,Nam,20,TT,2,2,Khac,Khac,Nha,2,0,Co,4,2,5,5,0,16
